@@ -1,10 +1,11 @@
 {
-  "Show": true,
-  "Type": 0,
-  "Id": 110000,
-  "Title": "Main Header",
-  "SubTitle": "Main Header SubText",
-  "ListTitle": "List Name",
-  "Date": "2025-0-1T00:00:00Z",
-  "Content": "Text Here"
+  "show": true,
+  "language": 0,
+  "type": 0,
+  "id": 110000,
+  "title": "Main Header",
+  "subtitle": "Main Header SubText",
+  "listtitle": "List Name",
+  "date": "2025-0-1T00:00:00Z",
+  "content": "Text Here"
 }
