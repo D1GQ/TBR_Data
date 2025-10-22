@@ -1,5 +1,6 @@
 {
-  News [
-    Template.yaml
+  "News": [
+    "Template.yaml",
+    "TBR-v0.0.1-A6.yaml"
   ]
 }
